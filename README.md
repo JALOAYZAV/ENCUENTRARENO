@@ -51,7 +51,7 @@ Para ejecutar este proyecto, necesitas:
 1. Clona este repositorio a tu máquina local usando el siguiente comando:
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   [git clone https://github.com/tu_usuario/nombre_del_repositorio.git](https://github.com/JALOAYZAV/ENCUENTRARENO.git)
 
    Tablero:
 [J] [-] [-] [-] [-] 
