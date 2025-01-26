@@ -52,3 +52,14 @@ Para ejecutar este proyecto, necesitas:
 
    ```bash
    git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+
+   Tablero:
+[J] [-] [-] [-] [-] 
+[-] [-] [-] [-] [-] 
+[-] [-] [-] [-] [-] 
+[-] [-] [-] [-] [-] 
+[-] [-] [-] [-] [-] 
+
+Intentos restantes: 10
+Usa W/A/S/D para moverte y ENTER para seleccionar: 
+
