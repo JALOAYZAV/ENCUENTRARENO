@@ -1,4 +1,4 @@
-# ENCUENTRARENO
+# ENCUENTRA AL RENO
 # Juego de Encontrar al Reno en C++
 
 ## Descripción
